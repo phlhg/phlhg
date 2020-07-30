@@ -1,1 +1,1 @@
-<a href="https://phlhg.ch/"><img src="https://github.com/phlhg/phlhg/raw/master/banner.gif" style="width: 100%;"/></a>
+<a href="https://phlhg.ch/" target="_blank" ><img src="https://github.com/phlhg/phlhg/raw/master/banner.gif" style="width: 100%;"/></a>
